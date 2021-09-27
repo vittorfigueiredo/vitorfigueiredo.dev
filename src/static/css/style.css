@@ -1,0 +1,125 @@
+* {
+  font-family: "Coda", cursive;
+  font-style: normal;
+  font-weight: normal;
+  color: #DCDCDC;
+  background-color: #121212;
+}
+
+.title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+
+  line-height: 43px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.description {
+  text-align: center;
+  font-size: 16px;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 16px;
+  margin: 78px 600px 78px;
+}
+
+.container {
+  margin-left: 390px;
+  margin-right: 339px;
+}
+
+.content .post-title {
+  font-size: 24px;
+  margin-left: 338;
+  margin-bottom: 0;
+}
+
+.content .post-date {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 99px;
+  margin-bottom: 52px;
+}
+
+/* Sobre */
+.container-about {
+  margin-left: 263px;
+  margin-right: 250px;
+}
+
+.content .page-title {
+  margin-top: 89px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.content img {
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 100px;
+  height: 100px;
+  border-radius: 200px;
+}
+
+.content .about-text {
+  font-size: 16px;
+  text-align: center;
+}
+
+/* contact */
+
+.container-contact .page-title {
+  margin-bottom: 67px;
+}
+
+.contact {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.contact input {
+  width: 300px;
+  height: 40px;
+  margin-bottom: 20px;
+  background-color: #DCDCDC;
+  border-radius: 4px;
+}
+
+.contact .assunto-input {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 45px;
+}
+
+.contact .submit {
+  font-size: 18px;
+  line-height: 26px;
+  width: 300px;
+  border-color: #DCDCDC;
+  background-color: #121212;
+  margin-left: auto;
+  margin-right: auto;
+}
