@@ -22,6 +22,7 @@
           <a href="./blog.php">blog</a>
           <a href="./cursos.php">cursos</a>
           <a href="./sobre.php">sobre</a>
+          <a href="./trabalho.php">Trabalho</a>
           <a href="./contato.php">contato</a>
         </div>
       </header>

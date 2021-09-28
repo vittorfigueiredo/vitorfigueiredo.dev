@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^src/([^/\.]+)/?$ /blog.php [L]
+RewriteRule ^public/([^/\.]+)/?$ /blog.php [L]
