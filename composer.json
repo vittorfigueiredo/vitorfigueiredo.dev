@@ -1,0 +1,16 @@
+{
+    "name": "vitor/blog-vitorfigueiredo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vitor\\BlogVitorfigueiredo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitor Figueiredo",
+            "email": "vitorfigueiredo855@gmail.com"
+        }
+    ],
+    "require": {}
+}
